@@ -3,23 +3,26 @@ KoshuCoin integration/staging tree
 
 http://www.KoshuCoin.org
 
-Copyright (c) 2009-2014 Bitcoin Developers
-Copyright (c) 2011-2014 KoshuCoin Developers
+Copyright (c) 2021-2023 KoshuCoin Developers
 
 What is KoshuCoin?
 ----------------
 
-KoshuCoin is a lite version of Bitcoin using scrypt as a proof-of-work algorithm.
+Koshu Coin was created as a new model for Crypto. 
+
+White Paper Coming Soon 
+
+
  - 2.5 minute block targets
- - subsidy halves in 840k blocks (~4 years)
- - ~84 million total coins
+ - subsidy halves in 1 million blocks
+ - ~1 billion total coins
 
-The rest is the same as Bitcoin.
- - 50 coins per block
- - 2016 blocks to retarget difficulty
+Tokenomics
 
-For more information, as well as an immediately useable, binary version of
-the KoshuCoin client sofware, see http://www.KoshuCoin.org.
+ - 5 coins per block
+ - 2023 blocks to retarget difficulty
+
+
 
 License
 -------
