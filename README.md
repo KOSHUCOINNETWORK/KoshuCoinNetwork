@@ -1,7 +1,6 @@
 KoshuCoin integration/staging tree
 ================================
 
-http://www.KoshuCoin.org
 
 Copyright (c) 2021-2023 KoshuCoin Developers
 
