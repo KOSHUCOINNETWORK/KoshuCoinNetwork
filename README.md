@@ -1,10 +1,10 @@
-KoshuCoin integration/staging tree
+Koshu Coin integration/staging tree
 ================================
 
 
-Copyright (c) 2021-2023 KoshuCoin Developers
+Copyright (c) 2021-2023 Koshu Coin Developers
 
-What is KoshuCoin?
+What is Koshu Coin?
 ----------------
 
 Koshu Coin was created as a new model for Crypto. 
